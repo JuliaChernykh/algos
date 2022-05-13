@@ -1,0 +1,14 @@
+{
+  "name": "special",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "ts-jest": "^27.1.2",
+    "typescript": "4.5.3",
+    "@types/jest": "^27.0.3"
+  }
+}
